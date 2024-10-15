@@ -2,7 +2,7 @@
 
 <!-- TODO Logo IEEE SB UNIWA-->
 
-![Python logo](images/Python-Logo.png){width="400"}
+
 
 <!-- ![Uniwa logo](images/uniwa-logo.png){width="200",align="right"} -->
 <!-- TODO 2-3 λόγια για το μάθημα, και την λειτουργία του εργαστηρίου -->
