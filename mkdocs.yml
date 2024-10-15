@@ -1,10 +1,21 @@
 site_name: Python OOP
-docs_dir: ./docs/posts
+plugins:
+  - blog:
+      blog_dir: .
+      post_dir: "{blog}/posts"
+      archive: false
 theme:
   name: material
   features:
     - content.code.annotate
     - content.code.copy
+    - navigation.indexes
+    - navigation.instant.progress
+    - navigation.instant.preview
+    - navigation.tracking
+    - navigation.tags
+    - navigation.tags.sticky
+    - navigation.sections
   icon:
     abmonition:
       note: octicons/tag-16
@@ -20,6 +31,11 @@ theme:
       example: octicons/beaker-16
       quote: octicons/quote-16
     annotation: material/star-four-points-circle
+
+nav:
+  - Home: index.md
+  - Python Couse: blog/index.md
+
 markdown_extensions:
   - pymdownx.highlight:
       anchor_linenums: true

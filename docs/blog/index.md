@@ -1,9 +1,12 @@
+# Blog
+
 # Καλωσόρισμα
+---
+date: 2024-10-14
+---
 
 <!-- TODO Logo IEEE SB UNIWA-->
-
-
-
+<!-- more -->
 <!-- ![Uniwa logo](images/uniwa-logo.png){width="200",align="right"} -->
 <!-- TODO 2-3 λόγια για το μάθημα, και την λειτουργία του εργαστηρίου -->
 
